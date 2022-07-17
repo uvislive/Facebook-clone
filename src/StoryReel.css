@@ -1,0 +1,11 @@
+.StoryReel {
+    padding: 18px 0;
+  display: flex;
+  margin-top: 3rem;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+.StoryReel::-webkit-scrollbar {
+  display: none;
+}

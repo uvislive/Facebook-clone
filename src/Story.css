@@ -1,0 +1,30 @@
+.Story{
+height: 16rem;
+min-width: 18%;
+color:white;
+margin: 0 10px;
+object-fit: cover;
+box-sizing: border-box;
+border: 3px solid rgb(223, 123, 198);
+border-radius: 20px;
+transition: transform(450ms);
+transition-duration: 0.5s;
+transition-timing-function: ease-in-out;
+
+}
+
+.Story:hover{
+    transform: scale(1.13);
+}
+
+.Story > .MuiSvgIcon-root{
+border: 10px silver blue;
+
+}
+
+
+.Story>  h4{
+    position: relative;
+    /* left: 33px; */
+top: 170px;
+}

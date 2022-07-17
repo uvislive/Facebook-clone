@@ -1,0 +1,16 @@
+
+
+how to use background image propery in the css 
+
+style={{`url(${image})`}}
+
+image here is the variable or the props o
+and  or 
+variable as the props 
+
+
+avatar take two property like 
+
+<Avtar src="url" style={{color:"green"}}/>
+
+
